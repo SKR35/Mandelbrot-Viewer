@@ -1,0 +1,8 @@
+name: mandelbrot-viewer
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy>=1.24
+  - matplotlib>=3.7
+  - numba>=0.59
