@@ -9,6 +9,7 @@ wheels/
 *.egg-info/
 .eggs/
 pip-wheel-metadata/
+*.spec
 
 # Virtual envs
 .venv/
@@ -16,6 +17,7 @@ venv/
 ENV/
 archive/
 output/
+Logo/
 
 # Tests / tooling
 .pytest_cache/
